@@ -8,8 +8,8 @@ Applied ML & quantitative finance researcher building reproducible credit-risk, 
 - Current focus: graph-based credit scoring, credit-risk modeling, and ML-driven decision support
 
 ## Selected links
-- CV (PDF): CV_Lennart_Baals.pdf
-- ORCID: 0000-0002-7737-9675
+- CV (PDF): [CV_Lennart_Baals.pdf](./CV_Lennart_Baals.pdf)
+- ORCID: https://orcid.org/0000-0002-7737-9675
 - Google Scholar: https://scholar.google.com/citations?user=nInXxR4AAAAJ&hl=en&oi=ao
 
 ## Featured work (high-level)
