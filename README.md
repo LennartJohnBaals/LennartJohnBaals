@@ -2,7 +2,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7737--9675-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-7737-9675)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=nInXxR4AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lennart-john-baals/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lennart-john-baals-a621aa193/?originalSubdomain=ch)
 
 **PhD Candidate & Applied ML Researcher** | Graph-based Credit Scoring | Digital Finance Risk
 
