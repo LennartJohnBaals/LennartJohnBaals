@@ -15,7 +15,7 @@ Applied ML & quantitative finance researcher building reproducible credit-risk, 
 | Affiliation | Role |
 |-------------|------|
 | **University of Twente** | PhD in Quantitative Finance |
-| **University of Applied Sciences of the Grisons** | Scientific Employee |
+| **University of Applied Sciences of the Grisons** | Scientific Researcher |
 | **Columbia IEOR** | Visiting PhD Researcher (2025) |
 
 **Dissertation:** *Risk Management in Digital Finance: Assessment and Pricing in an Emerging Fintech Era*
